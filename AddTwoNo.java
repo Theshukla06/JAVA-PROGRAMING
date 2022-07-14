@@ -4,4 +4,5 @@ public class AddTwoNo {
         sum=a+b;
         System.out.print("Sum :- "+sum);
     }    
+    
 }
